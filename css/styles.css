@@ -176,7 +176,7 @@ header {
   /* Image displayed on mobile devices instead of video, to reduce data consumption and waiting time.
   It's also the image shown if the video doesn't load for some reason.
   Change this image with the first frame of your video, you can make and use a screenshot of it */
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("file:///C:/Users/Mary%20Sion%20F.%20Gumban/Music/ROY/fhfhk/zigo-template.zip%20(Unzipped%20Files)-20210112T102602Z-001/zigo-template/pics/twice-6.jpg") no-repeat center;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://github.com/roygumban/roygumban.github.io/blob/main/pics/twice-6.jpg") no-repeat center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -382,7 +382,7 @@ header {
 #free-trial-section {
   padding-top: 70px;
   padding-bottom: 90px;
-  background: linear-gradient(rgba(17, 53, 71, 0.7), rgba(17, 53, 71, 0.7)), url("file:///C:/Users/Mary%20Sion%20F.%20Gumban/Music/ROY/fhfhk/zigo-template.zip%20(Unzipped%20Files)-20210112T102602Z-001/zigo-template/pics/123.gif");
+  background: linear-gradient(rgba(17, 53, 71, 0.7), rgba(17, 53, 71, 0.7)), url("https://github.com/roygumban/roygumban.github.io/blob/main/pics/123.gif");
   background-size: cover;
   background-attachment: fixed; }
   #free-trial-section h1 {
